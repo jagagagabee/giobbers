@@ -1,7 +1,7 @@
 /* Set the background color of the body to blue */
 body {
     background-color: #1874D2;
-    margin: 0;
+    margin: 10;
     font-family: Arial, sans-serif;
-    color: white; /* Optional: This will make the text white so it's readable on the blue background */
+    color: white;
 }
