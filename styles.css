@@ -5,3 +5,19 @@ body {
     color: #FECC98;
     margin-top: 50px;
 }
+
+header h1 {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 3em;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+header h2 {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 50;
+    font-size: 1em;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
