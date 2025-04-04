@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blank Page</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS -->
+</head>
+<body>
+    <!-- Blank body for now -->
+    <script src="script.js"></script> <!-- Link to your JavaScript -->
+</body>
+</html>
+
+/* Basic CSS to keep the page blank */
 body {
-  background-color:#1874D2;
-  }
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Make the body fill the whole height of the viewport */
+    background-color: white; /* Background colour (white for a blank page) */
+    font-family: Arial, sans-serif; /* Set a basic font */
+}
